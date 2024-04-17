@@ -38,6 +38,7 @@ Besides the solutions, there are Python 3 and C++ code stubs and some test cases
 
 # Challenges
 
+- [Maximizing Element with Constraints](challenges/maximizing-element-with-constraints.py)[[url]]
 - [A Very Big Sum](challenges/a-very-big-sum.py) [[url]](https://www.hackerrank.com/challenges/a-very-big-sum) [10p]
 - [ACM ICPC Team](challenges/acm-icpc-team.py) [[url]](https://www.hackerrank.com/challenges/acm-icpc-team) [25p]
 - [Angry Professor](challenges/angry-professor.py) [[url]](https://www.hackerrank.com/challenges/angry-professor) [20p]
